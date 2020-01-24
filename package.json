@@ -1,0 +1,17 @@
+{
+  "name": "dynadsl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.609.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "jest": "^25.1.0",
+    "typescript": "^3.7.5"
+  }
+}
